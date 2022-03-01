@@ -9,7 +9,8 @@
     "logs": "firebase functions:log"
   },
   "engines": {
-    "node": "10"
+    "node": "10",
+    "npm": "6.11.3"
   },
   "dependencies": {
     "bad-words": "^3.0.3",
